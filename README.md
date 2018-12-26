@@ -77,7 +77,7 @@
 
 - [Anvil](http://anvilformac.com/) - Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
-- [Cakebrew](https://www.cakebrew.com/) - The Homebrew GUI App. [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew) ![Freeware][Freeware Icon]
+- ~~[Cakebrew](https://www.cakebrew.com/) - The Homebrew GUI App. [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew) ![Freeware][Freeware Icon]~~ **Wes - I prefer CLI commands and ansible automation for a single button approach to installs/updates/removals/etc**
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client) - An app for testing REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
 - [Flawless App](https://flawlessapp.io/) - macOS tool for visual quality check of mobile app right inside iOS simulator.
@@ -104,11 +104,11 @@
 - [SnippetsLab](https://www.renfei.org/snippets-lab/) - Manage and organise snippets of code.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client. ![Freeware][Freeware Icon]
 - [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift code converter and Xcode & Finder extensions.
-- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - The macOS Touch Bar Simulator as a standalone app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/touch-bar-simulator) ![Freeware][Freeware Icon]
+- **TOTRY** [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - The macOS Touch Bar Simulator as a standalone app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/touch-bar-simulator) ![Freeware][Freeware Icon]
 - [Tower](https://www.git-tower.com/) - The most powerful Git client.
 - [Trailer](https://ptsochantaris.github.io/trailer/) - Configurable menubar Git notifications with accompanying native iOS app. [![Open-Source Software][OSS Icon]](https://github.com/ptsochantaris/trailer)
 - [Unused](https://jeffhodnett.github.io/Unused/) - An app for checking Xcode projects for unused resources. [![Open-Source Software][OSS Icon]](https://github.com/jeffhodnett/Unused) ![Freeware][Freeware Icon]
-- [Vagrant Manager](http://vagrantmanager.com) - Manage your vagrant machines in one place with Vagrant Manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
+- **TOTRY** [Vagrant Manager](http://vagrantmanager.com) - Manage your vagrant machines in one place with Vagrant Manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
 - [Versions](http://versionsapp.com/) - SVN GUI client for Mac.
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC)
 
@@ -156,6 +156,7 @@
 
 ### Graphics
 
+** WES: LEFT OFF HERE **
 - [Acorn](https://secure.flyingmeat.com/acorn/) - A very Mac-like image editor with a comprehensive feature set.
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Vector image design tool, possible Adobe Illustrator alternative.
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Raster image design tool, possible Adobe Photoshop alternative.
